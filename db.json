@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "title": "Red G Class",
+      "price": "125 000",
+      "image": "https://images.unsplash.com/photo-1590079287659-96668805ef23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZyUyMGNsYXNzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "description": " The Mercedes-Benz G-Class, sometimes colloquially called the G-Wagen  in Austria and sold by Mercedes-Benz.",
+      "id": 2
+    },
+    {
+      "title": "G Class",
+      "price": "112222",
+      "image": "https://images.unsplash.com/photo-1569126751622-89d8fcaf8a66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGclMjBjbGFzc3xlbnwwfDB8MHx8&auto=format&fit=crop&w=400&q=60",
+      "description": " The Mercedes-Benz G-Class, sometimes colloquially called the G-Wagen (as an abbreviation of Geländewagen) is a four-wheel drive automobile manufactured by Magna Steyr (formerly Steyr-Daimler-Puch) in Austria and sold by Mercedes-Benz.",
+      "id": 3
+    }
+  ]
+}
